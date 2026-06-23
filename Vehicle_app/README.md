@@ -1,3 +1,11 @@
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Model-orange)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-CNN%20Architecture-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Network-orange)
+![Deployment](https://img.shields.io/badge/Deployment-Render-green)
+
 # 🚗 Vehicle Classification Flask Web Application
 
 ## 📌 Overview
