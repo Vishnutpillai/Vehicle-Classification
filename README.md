@@ -1,3 +1,17 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AI-orange)
+![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-green)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-Transfer%20Learning-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20Deployment-black)
+![HTML](https://img.shields.io/badge/HTML-Web-orange)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # 🚗 Vehicle Image Classification Using Deep Learning and Transfer Learning
 
 ## 📌 Project Overview
