@@ -107,9 +107,9 @@ color:#dc2626;
 @st.cache_resource
 def load_model():
 
-    model = tf.keras.models.load_model(
-        "best_vehicle_model.h5",
-        compile=False
+    model=tf.keras.models.load_model(
+    "vehicle_model.keras",
+    compile=False
     )
 
     return model
