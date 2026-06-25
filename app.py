@@ -108,7 +108,7 @@ color:#dc2626;
 def load_model():
 
     model=tf.keras.models.load_model(
-    "vehicle_model.keras",
+    "best_vehicle_model.h5",
     compile=False
     )
 
