@@ -3,6 +3,7 @@ import tensorflow as tf
 import numpy as np
 import cv2
 from PIL import Image
+from keras.utils import custom_object_scope
 import time
 
 
@@ -105,10 +106,11 @@ color:#dc2626;
 
 def load_model():
 
-    model=tf.keras.models.load_model(
-        "best_vehicle_model.h5",
-        compile=False
-    )
+    with custom_object_scope({'tf': tf}):
+        model=tf.keras.models.load_model(
+            "best_vehicle_model.h5",
+            compile=False
+        )
 
     return model
 
